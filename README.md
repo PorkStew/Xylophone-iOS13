@@ -1,5 +1,7 @@
 # Xylophone
 
+## Portrait
+<img src="images/IMG_0557.PNG" width=600px;>
 
 ## What you will learn
 
